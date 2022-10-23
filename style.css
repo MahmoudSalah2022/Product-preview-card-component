@@ -48,12 +48,14 @@ body{
    justify-content: center;
    align-content: center;
    gap:10px;
-
+   font-size: 18px;
+   color: white;
 }
 
-.add-to-cart-button a{
-font-size: 18px;
-color: white;
+
+.add-to-cart-button:hover{
+    background-color: var(--button-hover-color);
+    cursor: pointer;
  }
 
 .product-price{
