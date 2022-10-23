@@ -83,7 +83,7 @@ body{
     color: var(--pargraph-color);
 }
 .product-name{
-    font-size: 35px;
+    font-size: 18px;
     font-family: 'Fraunces', serif;
     color: var(--button-hover-color);
 }
